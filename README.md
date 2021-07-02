@@ -4,7 +4,7 @@ This dataset is a simulated credit card transaction dataset containing legitimat
 Requires understanding of statistical data analysis, linear regression, data modelling/validating techniques and programming language python, and framework Jupyter.
 
 ## Getting Started
-Save the data set fraudTrain.csv and fraudTest.csv in your local directory. Save all the necessary files in the same directory and run jupyter. 
+Save the data set fraudTrain.csv and fraudTest.csv in your local directory from [https://www.kaggle.com/kartik2112/fraud-detection]. Save all the necessary files in the same directory and run jupyter. 
 
 ## Authors
 Shamsun Nila
